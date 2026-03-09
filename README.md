@@ -1,6 +1,6 @@
 # 🔧 wz-depanneur
 
-Script de job dépanneur complet pour FiveM — Compatible **ESX** et **QBCore**.
+Script de job dépanneur complet pour FiveM — Compatible **ESX** et **QBCore** - Script réalisé pour une vidéo Youtube : https://www.youtube.com/watch?v=5Sojt7tHZb0.
 
 ---
 
@@ -56,9 +56,14 @@ Tous les paramètres sont modifiables dans `config.lua` :
 | `Config.MaxDepanneurs` | Limite de joueurs en service | 3 |
 | `Config.MissionDistances` | Probabilités par tranche de distance | Configurable |
 
+## 💻​ Hébergement FiveM
+
+Si vous êtes à la recherche d'un hébergeur FiveM fiable, je suis le propriétaire du [meilleur hébergeur FiveM](https://hanohost.fr/) HanoHost Hébergement ! 
+
 ## 📝 Support
 
-Pour toute question, contactez-moi via Tebex ou Discord.
+Pour toute question, rendez-vous sur SW Développement : https://discord.gg/hAy5VMP.
 
 ---
-© wz-scripts | Tous droits réservés
+© wz-scripts | Tous droits réservés 2026
+
