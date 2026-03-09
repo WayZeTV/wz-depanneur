@@ -1,6 +1,6 @@
 # 🔧 wz-depanneur
 
-Script de job dépanneur complet pour FiveM — Compatible **ESX** et **QBCore** - Script réalisé pour une vidéo Youtube : https://www.youtube.com/watch?v=5Sojt7tHZb0.
+Script de job dépanneur complet pour FiveM — Compatible **ESX** et **QBCore** - Script réalisé pour une [vidéo Youtube](https://www.youtube.com/watch?v=5Sojt7tHZb0)
 
 ---
 
@@ -62,8 +62,9 @@ Si vous êtes à la recherche d'un hébergeur FiveM fiable, je suis le propriét
 
 ## 📝 Support
 
-Pour toute question, rendez-vous sur SW Développement : https://discord.gg/hAy5VMP.
+Pour toute question, rendez-vous sur [SW Développement](https://discord.gg/hAy5VMP)
 
 ---
 © wz-scripts | Tous droits réservés 2026
+
 
