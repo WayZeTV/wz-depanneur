@@ -1,8 +1,8 @@
 # 🔧 wz-depanneur
 
-![Photo](https://media.discordapp.net/attachments/723268302255816724/1480593709866156123/wz-job-depanneur.jpg?ex=69b03dd8&is=69aeec58&hm=cb8f4baee783b5d4bfd69d137bee767c54e09e718357f0b62719f33bb8d8101a&=&format=webp&width=1475&height=830)
-
 Script de job dépanneur complet pour FiveM — Compatible **ESX** et **QBCore** - Script réalisé pour une [vidéo Youtube](https://www.youtube.com/watch?v=5Sojt7tHZb0)
+
+![Photo](https://media.discordapp.net/attachments/723268302255816724/1480593709866156123/wz-job-depanneur.jpg?ex=69b03dd8&is=69aeec58&hm=cb8f4baee783b5d4bfd69d137bee767c54e09e718357f0b62719f33bb8d8101a&=&format=webp&width=1475&height=830)
 
 ---
 
@@ -68,6 +68,7 @@ Pour toute question, rendez-vous sur [SW Développement](https://discord.gg/hAy5
 
 ---
 © wz-scripts | Tous droits réservés 2026
+
 
 
 
